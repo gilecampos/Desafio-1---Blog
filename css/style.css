@@ -17,6 +17,10 @@ html {
     font-size: 50%;
 }
 
+body {
+    background-color:#f3f5f7;
+}
+
 
 
 
@@ -91,7 +95,6 @@ input:focus {
 
 /* MAIN */
 main {
-    background-color:#f3f5f7;
 
     height: auto;
 
