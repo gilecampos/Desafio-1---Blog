@@ -1,7 +1,7 @@
 # Desafio proposto pela comunidade codelândia disponibilizado no Figma
 
 ## Aprendizado:
-Aprimorei meus conceitos/conhecimentos de HTML semântico, Grid Layouts e me apronfundei na responsividade para diferentes tamanhos de telas.
+Aprimorei meus conceitos/conhecimentos de HTML semântico, Flexbox e me apronfundei na responsividade para diferentes tamanhos de telas.
 
 
 
