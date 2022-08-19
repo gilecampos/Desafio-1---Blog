@@ -1,5 +1,10 @@
 # Desafio proposto pela comunidade codelândia disponibilizado no Figma
 
+## Aprendizado:
+Aprimorei meus conceitos/conhecimentos de HTML semântico, Grid Layouts e me apronfundei na responsividade para diferentes tamanhos de telas.
+
+
+
 ## Link Figma Abaixo
 https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1
 
