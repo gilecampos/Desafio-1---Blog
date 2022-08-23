@@ -1,12 +1,16 @@
-# Desafio proposto pela comunidade codelândia disponibilizado no Figma
+# Desafio (Codelândia)
+Esse projeto foi desenvolvido em colaboração com a comunidade codelândia (um servidor do discord) , na qual são disponibilizados diversos layouts prontos no figma para serem desenvolvido do jeito que você quiser para fins de estudo.
+### Link do discord : https://discord.gg/wNCWTVuxyz
+### Link do figma com todos desafios : https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1
 
-## Aprendizado:
-Aprimorei meus conceitos/conhecimentos de HTML semântico, Flexbox e me apronfundei na responsividade para diferentes tamanhos de telas.
+# Aprendizado:
+Ao desenvolver esse projeto, tive o primeiro contato com o conceito mobileFirst, e aprimorei meus conceitos/conhecimento de flexbox.
+
+# Tecnologias Usadas:
+HTML, CSS puro
 
 
+# Imagem do projeto.
 
-## Link Figma Abaixo
-https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1
+![codelandia - blog](https://user-images.githubusercontent.com/102332042/186263095-1630d868-75c9-4537-a870-171c1c339582.png)
 
-
-![a](https://user-images.githubusercontent.com/102332042/182271075-4301a6aa-5ac6-4882-a01f-109ee2f85490.png)
