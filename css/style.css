@@ -21,9 +21,6 @@ body {
     background-color:#f3f5f7;
 }
 
-
-
-
 * {
     margin: 0;
     padding: 0;
@@ -35,10 +32,9 @@ header {
     display: flex;
     align-items: center;
 
-    
     height: 200px;
 
-    background-image: linear-gradient(to right, var(--dark), var(--light));
+    background-image: linear-gradient(90deg , var(--dark), var(--light));
 }
 
 .header-container {
@@ -60,7 +56,7 @@ header {
     color: #fff;
     font-family: var(--lexend);
     font-weight: normal;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 .header-search {
@@ -76,11 +72,11 @@ header {
 
 .header-search input {
     background-color: transparent;
-    border: 0;
     color: #FFF;
 
     margin-left: 5px;
     width: 100%;
+    border: 0;
 }
 
 input:focus {
@@ -95,18 +91,14 @@ input:focus {
 
 /* MAIN */
 main {
-
     height: auto;
-
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
 .container {
     width: 90%;
-
     margin: auto;
-
     display: grid;
     grid-template-columns: 1fr;
 }
@@ -117,19 +109,18 @@ main {
 
     background-color: #FFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.363);
+
     border-radius: 15px;
-
     padding: 10px;
-
     margin-bottom: 20px;
 }
 
-.box .date {
+.box .box--date {
     display: flex;
     justify-content: space-between;
 }
 
-.box .date p {
+.box .box--date p {
     color: rgba(51, 51, 51, 0.829);
     font-family: var(--lexend);
     font-size: 1.4rem;
@@ -137,12 +128,12 @@ main {
     margin-bottom: 20px;
 }
 
-.box .date i {
+.box .box--date i {
     color: var(--purple);
     font-size: 1.7rem;
 }
 
-.box .conteudo h1 {
+.box .box--content h1 {
     font-family: var(--lexend);
     font-size: 2rem;
     font-weight: 500;
@@ -150,13 +141,15 @@ main {
     margin-bottom: 20px;
 }
 
-.box .conteudo p {
+.box .box--content p {
     font-size: 1.5rem;
     line-height: 2.3rem;
     font-family: var(--lexend);
 
     color: rgba(51, 51, 51, 0.949);
 }
+
+/* MEDIA QUERIES */
 
 @media (min-width: 1024px) {
     html {
