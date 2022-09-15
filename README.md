@@ -13,8 +13,9 @@ HTML, CSS puro
 https://codelandia-desafio1-blog.netlify.app/
 
 
-# Imagem do projeto.
+# Imagem do projeto (DESKTOP).
 
 ![codelandia-desafio1-blog netlify app_](https://user-images.githubusercontent.com/102332042/190523761-1eefe30f-6e46-4a7c-a2cc-c8fb33d1c4fa.png)
+
 
 
