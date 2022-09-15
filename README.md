@@ -9,6 +9,9 @@ Ao desenvolver esse projeto, tive o primeiro contato com o conceito mobileFirst,
 # Tecnologias Usadas:
 HTML, CSS puro
 
+# Link para visualização do projeto
+https://codelandia-desafio1-blog.netlify.app/
+
 
 # Imagem do projeto.
 
