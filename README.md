@@ -1,4 +1,4 @@
-# Desafio (Codelândia 1 - Codeblôg)
+# Desafio (Codelândia 1 - Blog)
 Esse projeto foi desenvolvido em colaboração com a comunidade codelândia (um servidor do discord) , na qual são disponibilizados diversos layouts prontos no figma para serem desenvolvido do jeito que você quiser para fins de estudo.
 
 >## Link do discord : 
